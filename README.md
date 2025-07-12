@@ -121,7 +121,7 @@ backend/
 - Questions in `src/data/quizQuestions.js`
 - Scoring algorithm in `src/utils/calculations.js`
 
-## 🚢 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 ```bash
@@ -152,12 +152,6 @@ npm run build
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Project Link: [https://github.com/yourusername/aidentity](https://github.com/yourusername/aidentity)
 
 ## Acknowledgments
 
