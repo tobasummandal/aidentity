@@ -1,4 +1,3 @@
-```markdown
 # (AI)DENTITY: Who Are We in the Age of Algorithms?
 
 An interactive exploration of global AI perspectives based on research analyzing 59,542 voices across three continents.
