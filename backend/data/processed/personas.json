@@ -1,0 +1,122 @@
+{
+    "Balanced Social Participant": {
+      "size": 35344,
+      "percentage": 59.4,
+      "color": "#7994b5",
+      "description": "You approach AI with cautious optimism, recognizing both opportunities and risks. You value social connection and worry about technology isolating people, but you also see AI's potential to enhance human collaboration.",
+      "fearProfile": {
+        "economic": 0.25,
+        "surveillance": 0.20,
+        "social": 0.45,
+        "safety": 0.15,
+        "cultural": 0.10
+      },
+      "characteristics": [
+        "Values human connection above efficiency",
+        "Sees both benefits and risks in AI",
+        "Concerned about social isolation",
+        "Wants AI to enhance rather than replace human interaction"
+      ],
+      "regionalDistribution": {
+        "northAmerica": 15234,
+        "europe": 12876,
+        "asiaPacific": 7234
+      }
+    },
+    "Consistent Social Responder": {
+      "size": 13241,
+      "percentage": 22.2,
+      "color": "#93b778",
+      "description": "You engage thoughtfully with AI questions and show consistent concern patterns. Social isolation and maintaining human connections are your primary concerns as AI develops.",
+      "fearProfile": {
+        "economic": 0.35,
+        "surveillance": 0.15,
+        "social": 0.40,
+        "safety": 0.25,
+        "cultural": 0.05
+      },
+      "characteristics": [
+        "Thoughtful and consistent in responses",
+        "Focused on social justice implications",
+        "Worried about increasing inequality",
+        "Advocates for inclusive AI development"
+      ],
+      "regionalDistribution": {
+        "northAmerica": 3241,
+        "europe": 5876,
+        "asiaPacific": 4124
+      }
+    },
+    "Balanced Security Participant": {
+      "size": 2023,
+      "percentage": 3.4,
+      "color": "#d17c3f",
+      "description": "You prioritize safety and security in AI development. You want careful regulation and oversight to ensure AI systems are safe and beneficial for everyone.",
+      "fearProfile": {
+        "economic": 0.20,
+        "surveillance": 0.45,
+        "social": 0.15,
+        "safety": 0.50,
+        "cultural": 0.15
+      },
+      "characteristics": [
+        "Safety-first approach to AI",
+        "Supports strong regulation",
+        "Concerned about surveillance",
+        "Wants transparent AI development"
+      ],
+      "regionalDistribution": {
+        "northAmerica": 523,
+        "europe": 876,
+        "asiaPacific": 624
+      }
+    },
+    "Cultural Preservationist": {
+      "size": 4987,
+      "percentage": 8.4,
+      "color": "#be7249",
+      "description": "You're concerned about AI's impact on cultural values and traditions. You want to ensure that technological progress doesn't erode the cultural foundations that give life meaning.",
+      "fearProfile": {
+        "economic": 0.15,
+        "surveillance": 0.25,
+        "social": 0.20,
+        "safety": 0.10,
+        "cultural": 0.55
+      },
+      "characteristics": [
+        "Values tradition and cultural heritage",
+        "Worried about cultural homogenization",
+        "Wants AI to respect diverse values",
+        "Sees importance of preserving human wisdom"
+      ],
+      "regionalDistribution": {
+        "northAmerica": 987,
+        "europe": 1456,
+        "asiaPacific": 2544
+      }
+    },
+    "Technology-Aware Participant": {
+      "size": 3947,
+      "percentage": 6.6,
+      "color": "#b63e36",
+      "description": "You understand technology dependence risks but remain engaged. You're aware of the potential pitfalls of AI while appreciating its capabilities.",
+      "fearProfile": {
+        "economic": 0.30,
+        "surveillance": 0.35,
+        "social": 0.25,
+        "safety": 0.30,
+        "cultural": 0.20
+      },
+      "characteristics": [
+        "Knowledgeable about technology",
+        "Balanced view of benefits and risks",
+        "Concerned about dependency",
+        "Advocates for digital literacy"
+      ],
+      "regionalDistribution": {
+        "northAmerica": 1862,
+        "europe": 1372,
+        "asiaPacific": 713
+      }
+    }
+  }
