@@ -44,5 +44,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "ai",
+    "artificial-intelligence",
+    "data-visualization",
+    "react",
+    "personas",
+    "research",
+    "interactive"
+  ],
+  "author": "Sarena Yousuf, Şefika Öztürk, Tobasum Mandal",
+  "license": "MIT",
+  "homepage": "https://tobasummandal.github.io/aidentity"
 }
