@@ -1262,7 +1262,7 @@ const App = () => {
           </p>
 
           <p className={`mb-6 ${visibleSections.has(1) ? 'animate-slide-in-left delay-500' : 'opacity-0'}`}>
-            I spent the next year in computer science, film and art classes where my projects became an attempt to answer why different people in my college—and in my own family—interact with AI so differently. I was trying to define my own boundaries and fascinations around AI in my life. So when my friends shared that we could access research data about this, we dove into findings from <AnimatedCounter end={59542} /> people across three continents who had shared their deepest thoughts about artificial intelligence. What we found wasn't just data—it was like looking into a mirror that reflected all of our messy, complicated feelings about living with algorithms.
+            I spent the next year in computer science, film and art classes where my projects became an attempt to answer why different people in my college, and in my own family, interact with AI so differently. I was trying to define my own boundaries and fascinations around AI in my life. So when my friends shared that we could access research data about this, we dove into findings from <AnimatedCounter end={59542} /> people across three continents who had shared their deepest thoughts about artificial intelligence. What we found wasn't just data, it was like looking into a mirror that reflected all of our messy, complicated feelings about living with algorithms.
           </p>
 
           <p className={`text-xl font-medium text-gray-800 mt-12 ${visibleSections.has(1) ? 'animate-fade-in-up delay-700' : 'opacity-0'}`}>
@@ -1615,15 +1615,15 @@ const App = () => {
           </p>
 
           <p className={`mb-6 ${visibleSections.has(7) ? 'animate-slide-in-right delay-300' : 'opacity-0'}`}>
-            The <AnimatedCounter end={59.4} suffix="%" /> who are "Balanced Social Participants" aren't fence-sitters—they're thoughtful people trying to navigate a complex technological landscape while preserving what they value most about human connection.
+            The <AnimatedCounter end={59.4} suffix="%" /> who are "Balanced Social Participants" aren't fence-sitters. They're thoughtful people trying to navigate a complex technological landscape while preserving what they value most about human connection.
           </p>
 
           <p className={`mb-6 ${visibleSections.has(7) ? 'animate-slide-in-left delay-500' : 'opacity-0'}`}>
-            The <AnimatedCounter end={8.4} suffix="%" /> who are "Cultural Preservationists" aren't Luddites—they're guardians of traditions and values that have sustained communities for generations, asking important questions about what we might lose in our rush toward the future.
+            The <AnimatedCounter end={8.4} suffix="%" /> who are "Cultural Preservationists" aren't Luddites. They're guardians of traditions and values that have sustained communities for generations, asking important questions about what we might lose in our rush toward the future.
           </p>
 
           <p className={`mb-6 ${visibleSections.has(7) ? 'animate-slide-in-right delay-700' : 'opacity-0'}`}>
-            Even the <AnimatedCounter end={3.4} suffix="%" /> focused on security aren't paranoid—they're people who understand that powerful technologies require careful oversight and regulation to serve the common good.
+            Even the <AnimatedCounter end={3.4} suffix="%" /> focused on security aren't paranoid. They're people who understand that powerful technologies require careful oversight and regulation to serve the common good.
           </p>
 
           <p className={`text-xl font-semibold text-gray-800 mt-12 ${visibleSections.has(7) ? 'animate-fade-in-up delay-700' : 'opacity-0'}`}>
@@ -1644,7 +1644,7 @@ const App = () => {
           </p>
 
           <p className={`text-lg text-gray-600 mb-12 max-w-3xl mx-auto ${visibleSections.has(8) ? 'animate-slide-in-right delay-500' : 'opacity-0'}`}>
-            The future of AI isn't just being written by technologists in Silicon Valley. It's being shaped by students dreaming about jobs that didn't exist a year ago, parents thinking about their children's future, artists experimenting without any limits to their creativity, aunts worrying about their grandchildren's privacy, and so many more. If we truly understand this—that AI is this incredibly complicated system that touches all these different lives in all these different ways—we as a team believe we'll be able to design solutions that actually work for real people, no matter what their individual experience with technology looks like.
+            The future of AI isn't just being written by technologists in Silicon Valley. It's being shaped by students dreaming about jobs that didn't exist a year ago, parents thinking about their children's future, artists experimenting without any limits to their creativity, aunts worrying about their grandchildren's privacy, and so many more. If we truly understand this, that AI is this incredibly complicated system that touches all these different lives in all these different ways, we as a team believe we'll be able to design solutions that actually work for real people, no matter what their individual experience with technology looks like.
           </p>
 
           <p className={`text-xl font-semibold text-gray-800 mb-8 ${visibleSections.has(8) ? 'animate-pulse-custom delay-700' : 'opacity-0'}`}>
