@@ -27,10 +27,7 @@ module.exports = {
         'typewriter': 'typewriter 2s steps(20) forwards',
         'pulse-custom': 'pulse 2s ease-in-out infinite',
         'bounce-in': 'bounceIn 0.8s ease-out forwards',
-        'float': 'float 3s ease-in-out infinite',
-        'loading-dots': 'loadingDots 1.5s infinite',
-        'progress-shimmer': 'progressShimmer 2s infinite',
-        'stagger-in': 'staggerIn 0.6s ease forwards'
+        'float': 'float 3s ease-in-out infinite'
       },
       keyframes: {
         fadeIn: {
@@ -74,18 +71,6 @@ module.exports = {
         float: {
           '0%, 100%': { transform: 'translateY(0px)' },
           '50%': { transform: 'translateY(-20px)' }
-        },
-        loadingDots: {
-          '0%, 20%': { content: '"."' },
-          '40%': { content: '".."' },
-          '60%, 100%': { content: '"..."' }
-        },
-        progressShimmer: {
-          '0%': { left: '-30%' },
-          '100%': { left: '100%' }
-        },
-        staggerIn: {
-          '100%': { opacity: '1', transform: 'translateY(0)' }
         }
       },
       transitionDuration: {
@@ -104,18 +89,6 @@ module.exports = {
         '800': '800ms',
         '900': '900ms',
         '1000': '1000ms'
-      },
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
-      boxShadow: {
-        'glow': '0 0 20px rgba(59, 130, 246, 0.5)',
-        'glow-lg': '0 0 40px rgba(59, 130, 246, 0.5)',
-        'inner-lg': 'inset 0 2px 4px 0 rgba(0, 0, 0, 0.1)',
-      },
-      backdropBlur: {
-        'xs': '2px',
       },
       scale: {
         '102': '1.02',
