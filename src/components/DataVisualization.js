@@ -4,6 +4,7 @@ import { PERSONA_DATA } from '../data/personaData';
 import { REGIONAL_DATA } from '../data/researchData';
 
 export const DataVisualization = () => {
+  // Create distribution data from PERSONA_DATA
   const distributionData = Object.entries(PERSONA_DATA).map(([name, data]) => ({
     name: name.replace(/\s+/g, '\n'),
     value: data.percentage,
