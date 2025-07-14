@@ -2,34 +2,23 @@
   "name": "aidentity",
   "version": "1.0.0",
   "description": "Interactive exploration of global AI perspectives based on 59,542 voices",
-  "main": "src/index.js",
+  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "server": "cd backend && node server.js",
-    "dev": "concurrently \"npm run server\" \"npm start\"",
-    "postinstall": "cd backend && npm install",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "dependencies": {
-    "axios": "^1.5.0",
-    "cors": "^2.8.5",
-    "d3": "^7.8.5",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "recharts": "^2.8.0"
+    "recharts": "^2.8.0",
+    "d3": "^7.8.5"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.14",
-    "concurrently": "^8.2.0",
-    "gh-pages": "^6.3.0",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.0"
   },
@@ -55,6 +44,5 @@
     "interactive"
   ],
   "author": "Sarena Yousuf, Şefika Öztürk, Tobasum Mandal",
-  "license": "MIT",
-  "homepage": "https://tobasummandal.github.io/aidentity"
+  "license": "MIT"
 }
