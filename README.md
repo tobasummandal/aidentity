@@ -1,8 +1,12 @@
 # (AI)DENTITY: Who Are We in the Age of Algorithms?
 
 An interactive exploration of global AI perspectives based on research analyzing 59,542 voices across three continents.
+# The Website
+
+We’ve fixed the deployment issue we had earlier—our project is now live and running smoothly on Vercel. You can explore the interactive site here: 
 
 ## Quick Start
+- This section is for anyone who wants to run the project locally or deploy it themselves.
 
 ### Prerequisites
 - Node.js (v16 or higher)
